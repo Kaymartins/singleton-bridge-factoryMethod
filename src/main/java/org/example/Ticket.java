@@ -1,6 +1,6 @@
 package org.example;
 
-abstract class Ticket {
+public abstract class Ticket {
     protected Airline airline;
 
     public Ticket(Airline airline) {
